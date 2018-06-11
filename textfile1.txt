@@ -5,4 +5,5 @@ Hi , My name is textfile1
 Oh I'm testVCS1
 testVCS wants to go ahead and build a game
 
-This is an important hotfix
+This is an important hotfix from testVCS
+This is something I'm still working on. from testVCS1
